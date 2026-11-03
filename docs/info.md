@@ -1,6 +1,6 @@
 ## How it works
 
-Demo chip for the Vulkos Unichip GF180 submission guide
+Demo chip for the Vulkos Unichip GF180 submission guide.
 
 ## How to test
 
